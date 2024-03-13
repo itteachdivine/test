@@ -1,2 +1,4 @@
 name: itka
 rno: 1234
+
+address: Mongolia, Darkhan-Uul
